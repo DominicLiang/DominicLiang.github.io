@@ -626,7 +626,8 @@ const anzhiyu = {
 
   // 友链注入预设评论
   addFriendLink() {
-    var input = document.getElementsByClassName("el-textarea__inner")[0];
+    var input = document.getElementById("wl-edit");
+
     if (!input) return;
     const evt = new Event("input", { cancelable: true, bubbles: true });
     const defaultPlaceholder =
@@ -1046,15 +1047,15 @@ const anzhiyu = {
 
     function dr_js_autofill_commentinfos() {
       var lauthor = [
-          "#author",
-          "input[name='comname']",
-          "#inpName",
-          "input[name='author']",
-          "#ds-dialog-name",
-          "#name",
-          "input[name='nick']",
-          "#comment_author",
-        ],
+        "#author",
+        "input[name='comname']",
+        "#inpName",
+        "input[name='author']",
+        "#ds-dialog-name",
+        "#name",
+        "input[name='nick']",
+        "#comment_author",
+      ],
         lmail = [
           "#mail",
           "#email",
