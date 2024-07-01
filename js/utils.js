@@ -626,7 +626,9 @@ const anzhiyu = {
 
   // 友链注入预设评论
   addFriendLink() {
-    var input = document.getElementById("wl-edit");
+    let input;
+
+    input = document.getElementById("wl-edit");
 
     if (!input) return;
     const evt = new Event("input", { cancelable: true, bubbles: true });
