@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏实验室</title>
+    <link>https://blog.game-lab.site/</link>
+    
+    <image>
+      <url>https://blog.game-lab.site/icon.png</url>
+      <title>游戏实验室</title>
+      <link>https://blog.game-lab.site/</link>
+    </image>
+    
+    <atom:link href="https://blog.game-lab.site/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>独立游戏开发学习笔记。</description>
+    <pubDate>Sat, 06 Jul 2024 13:37:52 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>第一篇内容</title>
+      <link>https://blog.game-lab.site/posts/aca0a8b.html</link>
+      <guid>https://blog.game-lab.site/posts/aca0a8b.html</guid>
+      <pubDate>Sat, 06 Jul 2024 13:00:42 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;img src=&quot;/posts/aca0a8b/cover.svg&quot; class=&quot;&quot; title=&quot;alt text&quot;&gt;
+&lt;hr&gt;
+&lt;p&gt;第一遍内容实在不知道写什么, 说说为什么建个博客吧.&lt;/p&gt;
+&lt;p&gt;本来我只是想在学unity的时候顺便写写笔记,</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.game-lab.site/categories/%E7%A8%8B%E5%BA%8F/">程序</category>
+      
+      <category domain="https://blog.game-lab.site/categories/%E5%9B%BE%E5%BD%A2/">图形</category>
+      
+      <category domain="https://blog.game-lab.site/categories/%E5%85%B6%E4%BB%96/">其他</category>
+      
+      <category domain="https://blog.game-lab.site/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <category domain="https://blog.game-lab.site/tags/%E5%88%86%E4%BA%AB/">分享</category>
+      
+      
+      <comments>https://blog.game-lab.site/posts/aca0a8b.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

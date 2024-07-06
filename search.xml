@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>建站公告</title>
-    <url>/posts/6f91a4f7.html</url>
-    <content><![CDATA[<h1>建站啦</h1>
-<p>学了几天hexo和butterfly, 本来想自己魔改butterfly的. 但是搜魔改教程的时候无意中发现这个安知鱼主题, 真的做得十分漂亮, 于是直接拿来用了.</p>
-<h2 id="安知鱼主题"><a href="https://docs.anheyu.com/">安知鱼主题</a></h2>
-<p>不想折腾的推荐使用这个主题, 基本上开箱即用了.</p>
+    <title>第一篇内容</title>
+    <url>/posts/aca0a8b.html</url>
+    <content><![CDATA[<img src="/posts/aca0a8b/cover.svg" class="" title="alt text">
+<hr>
+<p>第一遍内容实在不知道写什么, 说说为什么建个博客吧.</p>
+<p>本来我只是想在学unity的时候顺便写写笔记, 但是找了很多写笔记软件都用不顺手, 用的最顺手的还是vscode+markdown, 既然用markdown写了, 那为什么不写个博客呢, 自己记笔记的同时还可以分享一下.</p>
+<p>于是乎找一圈, 决定用hexo+butterfly来建这个博客. 花了几天稍微小改了一下butterfly, 终于搞好了, 所以有了这篇废话.</p>
+<p>以后这里就作为我写unity笔记的地方.</p>
+<p>最后, 欢迎!</p>
 ]]></content>
       <categories>
         <category>程序</category>
-        <category>美术</category>
+        <category>图形</category>
         <category>其他</category>
-        <category>日常</category>
+        <category>生活</category>
       </categories>
       <tags>
         <tag>分享</tag>
