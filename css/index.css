@@ -7328,23 +7328,23 @@ a:hover {
 #random-article:hover {
   outline: 1px solid #6c63ff;
 }
-#random-article:hover .right {
+#random-article:hover .banner .right {
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
 }
-#random-article:hover .left .icon {
+#random-article:hover .banner .left .icon {
   color: var(--font-color);
 }
-#random-article:hover .left .text {
+#random-article:hover .banner .left .text {
   color: var(--font-color);
 }
-#random-article:hover .left .text .text2 {
+#random-article:hover .banner .left .text .text2 {
   color: #6c63ff;
 }
-#random-article:hover .left .text i {
+#random-article:hover .banner .left .text i {
   color: #6c63ff;
 }
 #random-article .banner {
